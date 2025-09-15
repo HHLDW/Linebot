@@ -216,9 +216,4 @@
 | `重設代碼`      | 刪除所有紀錄資料                       |
 
 
- <br><br> 
-<img src="https://github.com/user-attachments/assets/d6977ddd-9a86-4bfc-8ad0-0add1ea9b308" alt="指令" width="850" /> 
 
-
----
- <br><br> 
